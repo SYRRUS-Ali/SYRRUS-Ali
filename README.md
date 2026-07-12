@@ -63,14 +63,6 @@ Python project — actively in development.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/SYRRUS-Ali/SYRRUS-Ali/main/metrics.svg" width="100%"/>
-</div>
-
----
-
 ### 📫 Connect With Me
 
 <div align="center">
