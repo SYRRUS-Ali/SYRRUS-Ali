@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ali — SYRRUS-Ali
+# Ali Makhmud — SYRRUS-Ali
 
 ### Information Security Student | DevSecOps & Security Automation
 
@@ -67,7 +67,10 @@ Multi-service application with a REST API, PostgreSQL database, JWT authenticati
 Dependency-free Linux system monitor with threshold-based alerting and Telegram Bot notifications, running on a cron schedule inside Docker. `v1.1.0`
 
 **☸️ [k8s-deployment-demo](https://github.com/SYRRUS-Ali/k8s-deployment-demo)**
-Production-style Kubernetes deployment with autoscaling (HPA), Ingress + TLS, ConfigMaps/Secrets, and health probes. `In progress`
+Production-style Kubernetes deployment with autoscaling (HPA), Ingress + TLS, ConfigMaps/Secrets, and health probes. `v1.0.0`
+
+**🛡️ [Bantis](https://github.com/SYRRUS-Ali/Bantis) — Flagship Project**
+Self-hosted security platform combining a SOC-in-a-box, supply-chain attack simulation, and an AI security copilot with human-in-the-loop controls. `In progress`
 
 ---
 
@@ -83,7 +86,7 @@ Production-style Kubernetes deployment with autoscaling (HPA), Ingress + TLS, Co
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00C9FF)](https://t.me/@ali_makhmud7)
+[![Telegram](https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00C9FF)](https://t.me/ali_makhmud7)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-0D1117?style=for-the-badge&logo=researchgate&logoColor=2EC4B6)](https://www.researchgate.net/profile/Ali-Makhmud)
 
 </div>
