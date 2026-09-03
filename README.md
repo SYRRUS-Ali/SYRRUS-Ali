@@ -21,6 +21,25 @@
 
 ---
 
+### 📜 Certifications
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/662ebad3-38b0-489e-8037-4b19cec4a336/public_url" target="_blank">
+<img src="https://images.credly.com/images/50b96632-6cbb-40b7-ac0e-b83f49ff7f94/linkedin_thumb_image.png" width="300"/>
+</a>
+
+*Verified digital credential — click badge to view*
+
+</div>
+
+**[IBM SkillsBuild — Cybersecurity Fundamentals](https://www.credly.com/badges/662ebad3-38b0-489e-8037-4b19cec4a336/public_url)**
+*Verified digital credential — click badge to view*
+
+</div>
+
+---
+
 ### 🧰 Skills & Tools
 
 **Languages**
