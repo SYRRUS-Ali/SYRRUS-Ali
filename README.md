@@ -17,6 +17,7 @@
 - 🎓 4th-year student in **Information Security** — Moscow Polytechnic University
 - 🔐 Focused on **DevSecOps** and security automation
 - 🧩 Working on practical, hands-on security projects
+- 📄 Co-author of published research on secure, inclusive educational technology — see my [ORCID](https://orcid.org/0009-0008-1402-8617)
 - 🌱 Continuously building and improving my technical skills
 
 ---
@@ -107,5 +108,6 @@ Self-hosted security platform combining a SOC-in-a-box, supply-chain attack simu
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00C9FF)](https://t.me/ali_makhmud7)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-0D1117?style=for-the-badge&logo=researchgate&logoColor=2EC4B6)](https://www.researchgate.net/profile/Ali-Makhmud)
+[![ORCID](https://img.shields.io/badge/-ORCID-0D1117?style=for-the-badge&logo=orcid&logoColor=00C9FF)](https://orcid.org/0009-0008-1402-8617)
 
 </div>
